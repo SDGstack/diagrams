@@ -1,9 +1,138 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="Page-1" id="Zb_JZJ3aDTGBQne38d98">
-    <mxGraphModel>
+    <mxGraphModel dx="1854" dy="914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="BoEkjkMmjT-zXtR0zgfB-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="511.88" width="830" height="478.13" as="geometry" />
+        </mxCell>
+        <mxCell id="BoEkjkMmjT-zXtR0zgfB-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="550.02" width="240" height="401.86" as="geometry" />
+        </mxCell>
+        <mxCell id="BoEkjkMmjT-zXtR0zgfB-3" value="Experiment settings" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="545" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BoEkjkMmjT-zXtR0zgfB-4" value="XXX" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="640" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BoEkjkMmjT-zXtR0zgfB-5" value="Frequency" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="640" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BoEkjkMmjT-zXtR0zgfB-8" value="Polarity period" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="600" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BoEkjkMmjT-zXtR0zgfB-9" value="XXX" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="600" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BoEkjkMmjT-zXtR0zgfB-10" value="s" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="600" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BoEkjkMmjT-zXtR0zgfB-11" value="Hz" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="640" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BoEkjkMmjT-zXtR0zgfB-12" value="Duty cycle" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="680" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BoEkjkMmjT-zXtR0zgfB-13" value="XXX" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="680" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BoEkjkMmjT-zXtR0zgfB-15" value="%" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="680" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BoEkjkMmjT-zXtR0zgfB-17" value="Duration" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="720" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BoEkjkMmjT-zXtR0zgfB-18" value="XXX" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="720" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BoEkjkMmjT-zXtR0zgfB-19" value="s" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="720" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BoEkjkMmjT-zXtR0zgfB-20" value="Duration by mal mat checkbox na infinite" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=1;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="655" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BoEkjkMmjT-zXtR0zgfB-21" value="START" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="890" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BoEkjkMmjT-zXtR0zgfB-22" value="STOP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="890" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BoEkjkMmjT-zXtR0zgfB-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="554" width="520" height="186" as="geometry" />
+        </mxCell>
+        <mxCell id="BoEkjkMmjT-zXtR0zgfB-24" value="Current [A]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="265" y="585" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BoEkjkMmjT-zXtR0zgfB-25" value="Voltage [V]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="585" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BoEkjkMmjT-zXtR0zgfB-26" value="Live measurement" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="555" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BoEkjkMmjT-zXtR0zgfB-27" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="265" y="620" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BoEkjkMmjT-zXtR0zgfB-28" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="580" y="620" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BoEkjkMmjT-zXtR0zgfB-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="770" width="520" height="181.88" as="geometry" />
+        </mxCell>
+        <mxCell id="BoEkjkMmjT-zXtR0zgfB-30" value="Experiment measurement" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="770" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BoEkjkMmjT-zXtR0zgfB-31" value="Avg current [A]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="815" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BoEkjkMmjT-zXtR0zgfB-32" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="272.5" y="845" width="45" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="BoEkjkMmjT-zXtR0zgfB-33" value="Avg voltage [V]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="815" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BoEkjkMmjT-zXtR0zgfB-34" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="372.5" y="845" width="45" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="BoEkjkMmjT-zXtR0zgfB-35" value="Charge [C]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="815" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BoEkjkMmjT-zXtR0zgfB-36" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="472.5" y="845" width="45" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="BoEkjkMmjT-zXtR0zgfB-37" value="Elapsed time" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="815" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BoEkjkMmjT-zXtR0zgfB-38" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="562.5" y="845" width="45" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="BoEkjkMmjT-zXtR0zgfB-39" value="PLOT ICON" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="910" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BoEkjkMmjT-zXtR0zgfB-40" value="SER PORT COMBOBOX" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="520" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BoEkjkMmjT-zXtR0zgfB-41" value="CONNECT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="520" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BoEkjkMmjT-zXtR0zgfB-43" value="Vsetky controls by mali byt disabled, pokial zariadenie nekomunikuje. Okrem serport combo boxu a connect tlacidla obv.&lt;div&gt;Namiesto kruhu treba dat idealne nejake budiky, prinajhorsom velke cisla. V idealnom pripade maly graf co ukaze trend spolu s cislom.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Set delta ref je asi jasne, pri live measurement je delta len rozdiel predoslej a aktualnej hodnoty.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Live measurement is running 24/7, experiment only when experiment is running/&lt;/div&gt;&lt;div&gt;Plot icon should open new window, with some type of plot, where user can select which Y axis/es will be shown. X axis will always be time. Plot data should be saved only when experiment is running, but it should also store data even when plot window is closed. App could maybe push data to influx and retrieve them as needed. This way the data will be kept even between experiments. CSV export button should also be present.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="190" width="380" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="BoEkjkMmjT-zXtR0zgfB-45" value="Set delta ref" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="780" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BoEkjkMmjT-zXtR0zgfB-46" value="&lt;p&gt;&lt;span style=&quot;font-family: &amp;quot;Google Sans&amp;quot;, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Δ: xx.xx A&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="262.5" y="890" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BoEkjkMmjT-zXtR0zgfB-47" value="&lt;p&gt;&lt;span style=&quot;font-family: &amp;quot;Google Sans&amp;quot;, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Δ: xx.xx A&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="362.5" y="890" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BoEkjkMmjT-zXtR0zgfB-48" value="&lt;p&gt;&lt;span style=&quot;font-family: &amp;quot;Google Sans&amp;quot;, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Δ: xx.xx A&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="272.5" y="700" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BoEkjkMmjT-zXtR0zgfB-49" value="&lt;p&gt;&lt;span style=&quot;font-family: &amp;quot;Google Sans&amp;quot;, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Δ: xx.xx A&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="587.5" y="700" width="65" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
